@@ -97,11 +97,11 @@ Together, these projects form a coherent research agenda on health inequalities,
 ---
 
 ## 🌍 Links
-- 🌐 Institutional page: https://produccioncientifica.uca.es/investigadores/112059/detalle
-- 📄 Google Scholar: https://scholar.google.com/citations?user=UfF_tycAAAAJ
-- 📄 ResearchGate: https://www.researchgate.net/profile/Javier-Alvarez-Galvez
-- 🧾 ORCID: https://orcid.org/0000-0001-9512-7853
-- 🧠 CS2 DataLab page: https://www.cs2datalab.com/
+- 🌐 [Institutional page:](https://produccioncientifica.uca.es/investigadores/112059/detalle)
+- 📄 [Google Scholar:](https://scholar.google.com/citations?user=UfF_tycAAAAJ)
+- 📄 [ResearchGate:](https://www.researchgate.net/profile/Javier-Alvarez-Galvez)
+- 🧾 [ORCID:](https://orcid.org/0000-0001-9512-7853)
+- 🧠 [CS2 DataLab page:](https://www.cs2datalab.com/)
 
 ---
 
