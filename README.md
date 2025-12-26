@@ -2,13 +2,14 @@
 
 👨‍🔬 **Computational Social Scientist | Health Data Science | Network Science**
 
-I am an Associate Professor at the University of Cádiz (Spain) and Director of the
-Institute for Sustainable Social Development (INDESS),  where I teach research methods, data analysis and sociology of health. My main research interests are related with social/health data science, research methods, computational social science, health systems and health service research, social inequalities in (mental) health, health behaviours, and sociology of health and illness. I lead the [CS2 DataLab](https://www.cs2datalab.com).
+I am an Associate Professor at the [University of Cádiz](https://www.uca.es/) (Spain) and Director of the [University Research Institute for Sustainable Social Development (INDESS)](https://indess.uca.es/),  where I teach research methods, data analysis and sociology of health. My main research interests are related with social/health data science, research methods, computational social science, health systems and health service research, social inequalities in (mental) health, health behaviours, and sociology of health and illness. I lead the [CS2 DataLab](https://www.cs2datalab.com).
 
 My research focuses on:
 - Health inequalities and social determinants of health
 - Multimorbidity and comorbidity networks
 - Health misinformation and infodemiology
+- Computational Social Science & Quantitative Methods
+- Health & Social Data Science
 - Social network analysis and complex systems
 - Agent-based and simulation models
 
@@ -97,11 +98,11 @@ Together, these projects form a coherent research agenda on health inequalities,
 ---
 
 ## 🌍 Links
-- 🌐 [Institutional page:](https://produccioncientifica.uca.es/investigadores/112059/detalle)
-- 📄 [Google Scholar:](https://scholar.google.com/citations?user=UfF_tycAAAAJ)
-- 📄 [ResearchGate:](https://www.researchgate.net/profile/Javier-Alvarez-Galvez)
-- 🧾 [ORCID:](https://orcid.org/0000-0001-9512-7853)
-- 🧠 [CS2 DataLab page:](https://www.cs2datalab.com/)
+- 🌐 [Institutional page](https://produccioncientifica.uca.es/investigadores/112059/detalle)
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=UfF_tycAAAAJ)
+- 📄 [ResearchGate](https://www.researchgate.net/profile/Javier-Alvarez-Galvez)
+- 🧾 [ORCID](https://orcid.org/0000-0001-9512-7853)
+- 🧠 [CS2 DataLab](https://www.cs2datalab.com/)
 
 ---
 
