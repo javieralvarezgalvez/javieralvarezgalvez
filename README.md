@@ -81,19 +81,33 @@ Together, these projects form a coherent research agenda on health inequalities,
 ---
 
 ## 🧠 Methods & Tools
-- R (tidyverse, igraph, netdiffuseR, mgm)
-- Python (networkx, pandas, Mesa)
-- Network science & meta-analysis
-- Reproducible research (RMarkdown, GitHub)
 
----
+### Computational & Statistical Methods
+- Multivariate and longitudinal analysis
+- Mixed Graphical Models (MGM) and regularized regression (LASSO)
+- Network analysis and complex systems approaches
+- Meta-analysis and stratified methods (e.g. Cochran–Mantel–Haenszel)
+- Text mining, NLP, and digital trace data analysis
+- Agent-based modelling and simulation of social dynamics
 
-## 📂 Selected Repositories
-🔹 Multimorbidity networks  
-🔹 Health misinformation models  
-🔹 Social simulation & agent-based models  
+### Programming & Software
+- **R**: tidyverse, igraph, netdiffuseR, mgm, qgraph, lme4, survival, ggplot2  
+- **Python**: pandas, numpy, networkx, scikit-learn, Mesa  
+- **Simulation**: NetLogo, Mesa (Python)  
+- **Statistical software**: Stata, R, Python
 
-(see repositories below)
+### Network Science & Modelling
+- Construction and analysis of comorbidity and social networks
+- Temporal and multilayer networks
+- Centrality, community detection, and diffusion processes
+- Opinion dynamics and behavioural contagion models
+
+### Reproducible & Open Science
+- Reproducible workflows using **RMarkdown** and **Jupyter Notebooks**
+- Version control and collaborative development with **GitHub**
+- Modular analysis pipelines for multi-country and multi-database studies
+- Aggregated-data sharing protocols for privacy-preserving research
+
 
 ---
 
