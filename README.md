@@ -3,7 +3,7 @@
 👨‍🔬 **Computational Social Scientist | Health Data Science | Network Science**
 
 I am an Associate Professor at the University of Cádiz (Spain) and Director of the
-Institute for Sustainable Social Development (INDESS),  where I teach research methods, data analysis and sociology of health. My main research interests are related with social/health data science, research methods, computational social science, health systems and health service research, social inequalities in (mental) health, health behaviours, and sociology of health and illness. I lead the **CS2 DataLab (Computational Social Science DataLab)**.
+Institute for Sustainable Social Development (INDESS),  where I teach research methods, data analysis and sociology of health. My main research interests are related with social/health data science, research methods, computational social science, health systems and health service research, social inequalities in (mental) health, health behaviours, and sociology of health and illness. I lead the [CS2 DataLab](https://www.cs2datalab.com).
 
 My research focuses on:
 - Health inequalities and social determinants of health
